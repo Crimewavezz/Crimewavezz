@@ -9,8 +9,8 @@ I absolutely love Linux and gaming, thus majority of my projects is falling in b
 
 ### Get in touch:
 If you feel like talking with me, you can find me at:
-Discord: .Crimewavez#0001
-Email: intouch.crimes@protonmail.com
+- Discord: .Crimewavez#0001
+- Email: intouch.crimes@protonmail.com
 <!--
 **Crimewavezz/Crimewavezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
