@@ -1,6 +1,6 @@
 ### Hai, Crimewavez there! :octocat:
 
-I'm an absolute coffee addict and wannabe software engineer who recently started his journey in "serious" programming and self-improvement, proud member of Emacs Church. 
+I'm an absolute coffee addict and wannabe software engineer who recently started his journey in "serious" programming and self-improvement, proud member of Emacs Church.\
 I absolutely love Linux and gaming, thus majority of my projects is falling in between of these two areas, currently I'm working on:
 
 - Quakewavez - Having fun with Quake4 while learning C/C++, fixing bugs, modernizing engine and adding cross-platform support.
