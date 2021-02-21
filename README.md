@@ -1,14 +1,15 @@
-### Hai, Crimewavez there! :octocat:
-I absolutely love Linux and gaming, thus majority of my projects is falling in between of these two areas, currently I'm working on:
+### Wiktor Szkudlarek - @.Crimewavez :octocat:
+Hi! I'm Graphic Designer and self-taugh 3D artist, software developer, who is passionate about all art related disciplines, linux and open source. 
 
-- Quakewavez - Having fun with Quake4 while learning C/C++, fixing bugs, modernizing engine and adding cross-platform support.
-- ms2blend - Blender Export/Import plugin for models/skeletons created with Milkshape3D.
+### Goals and work culture:
+My goal is to become Technical Artist, thus I'm trying my best to provide valuable tools, art, and insights into game development world. I really appreciate all feedback as it helps to improve both my art and software. I believe in curiosity, problem-solving mindset and power of brainstorming.
 
+When working with people I prefer direct communiction and constructive critique, in my opinion thoughts of all people are valuable and worth listening to, so I expect getting the same in return.
 
 ### Get in touch:
 If you feel like talking with me, you can find me at:
-- Discord: .Crimewavez#7306
-- Email: intouch.crimes@protonmail.com
+- Discord: Wiktor Szkudlarek#7306
+- Email: crimewavez@protonmail.com
 <!--
 **Crimewavezz/Crimewavezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
