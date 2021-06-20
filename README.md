@@ -8,7 +8,7 @@ When working with people I prefer direct communiction and constructive critique,
 
 ### Get in touch:
 If you feel like talking with me, you can find me at:
-- Discord: Wiktor Szkudlarek#7306
+- Discord: .Crimewavez#7306
 - Email: crimewavez@protonmail.com
 <!--
 **Crimewavezz/Crimewavezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
