@@ -2,7 +2,7 @@
 Hi! I'm Graphic Designer and self-taugh 3D artist, software developer, who is passionate about all art related disciplines, linux and open source. 
 
 ### Goals and work culture:
-My goal is to become Technical Artist, thus I'm trying my best to provide valuable tools, art, and insights into game development world. I really appreciate all feedback as it helps to improve both my art and software. I believe in curiosity, problem-solving mindset and power of brainstorming.
+I really appreciate all feedback as it helps to improve both my art and software. I believe in curiosity, problem-solving mindset and power of brainstorming.
 
 When working with people I prefer direct communiction and constructive critique, in my opinion thoughts of all people are valuable and worth listening to, so I expect getting the same in return.
 
